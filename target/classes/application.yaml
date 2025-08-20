@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+app:
+  llm:
+    model: "gemini-1.5-flash"
+    apiKey: "${GOOGLE_API_KEY:}"
+  bigquery:
+    dataset: "${BQ_DATASET:talent_analytics}"
+    table: "${BQ_TABLE:candidate_scores}"

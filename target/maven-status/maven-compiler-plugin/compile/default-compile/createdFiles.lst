@@ -1,0 +1,10 @@
+com/talentmatch/service/BigQueryService.class
+com/talentmatch/controller/ApiExceptionHandler.class
+com/talentmatch/model/ScoreResult.class
+com/talentmatch/service/JobFetcher.class
+com/talentmatch/Application.class
+com/talentmatch/service/ScoringAgent$Result.class
+com/talentmatch/service/ScoringAgent.class
+com/talentmatch/controller/ScoringController.class
+com/talentmatch/service/ResumeService.class
+com/talentmatch/model/CandidateRequest.class
